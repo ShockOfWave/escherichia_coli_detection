@@ -38,3 +38,8 @@ python -m src.models.train_random_forest
 ### Run trained models example
 
 Example in notebook folder
+
+# License
+## MIT
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
